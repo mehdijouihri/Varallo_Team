@@ -1,0 +1,16 @@
+.button_secondary {
+    display: block;
+    width: fit-content;
+    background: #FFF;
+    color: var(--blue);
+    padding: 10px 25px;
+    border: 1px solid var(--blue);
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.button_secondary:hover {
+    background: var(--blue);
+    color: #FFF;
+    border: 1px solid transparent;
+}

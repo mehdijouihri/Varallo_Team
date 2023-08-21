@@ -1,0 +1,54 @@
+.card_actu {
+    display: block;
+    min-width: 320px;
+    max-width: 380px;
+    margin-right: 15px;
+    margin-bottom: 35px;
+}
+
+.card_actu a {
+    color: var(--blue);
+}
+
+.card_actu:last-child {
+    margin-right: 0px;
+}
+
+.card_actu img {
+    height: 215px;
+    width: 100%;
+    max-width: 380px;
+    object-fit: cover;
+}
+
+.actu_details {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.actu_details p {
+    margin-bottom: 0;
+}
+
+.actu_details .actu_category {
+    display: block;
+    font-size: 14px;
+    color: var(--red);
+    letter-spacing: 0.1em;
+    border-right: 1px solid #C4C4C4;
+    padding-right: 10px;
+    text-transform: uppercase;
+}
+
+.actu_details .actu_date {
+    font-size: 14px;
+    color: var(--darkgrey);
+    padding-left: 10px;
+    letter-spacing: 0.1em;
+}
+
+.card_actu h2 {
+    font-size: 20px;
+    margin-top: 13px;
+}
