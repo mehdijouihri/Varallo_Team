@@ -9,11 +9,11 @@ const JeanPatry = () => {
     <div>
       <Navbar />
       <FicheMembres
-        nom="Ines Jouihri"
+        nom="Amir jouihri"
         role="N°4 - pointu"
-        date="21/07/2003"
+        date="29/10/2014"
         taille="1m67"
-        kg="94kg"
+        kg="34kg"
         attaq="3m34"
         block="3m17"
         datePalma1="2015"

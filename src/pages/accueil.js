@@ -74,7 +74,7 @@ const Accueil = () => {
       <section className="histoire">
         <div className="container">
           <img
-            src={require("../assets/Images/imagesportines/inesgioca.jpeg")}
+            src={require("../assets/Images/imagesportines/equipevoley.jpeg")}
             alt="Photo des joueurs"
           />
           <div className="histoire_details">
